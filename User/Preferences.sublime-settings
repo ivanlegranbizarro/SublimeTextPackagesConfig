@@ -1,0 +1,33 @@
+{
+    "font_size": 16,
+    "font_face": "FiraCode Nerd Font",
+    "theme": "Adaptive.sublime-theme",
+    "ignored_packages": [
+    ],
+    "vintage_start_in_command_mode": true,
+    "vintage_ctrl_keys": true,
+    "vintage_use_clipboard": true,
+    "word_wrap": true,
+    "caret_style": "smooth",
+    "auto_complete_preserve_order": "none",
+    "auto_complete_trailing_symbols": true,
+    "auto_complete_cycle": true,
+    "save_on_focus_lost": true,
+    "scroll_past_end": true,
+    "auto_complete_commit_on_tab": false,
+    "tab_completion": false,
+    "auto_complete_triggers": [
+        {
+            "characters": "abcdefghijklmnopqrstuvwxyz0123456789",
+            "selector": "text.html",
+        }
+    ],
+    "index_files": true,
+    "close_windows_when_empty": false,
+    "codeium_enabled": true,
+    "color_scheme": "Mariana.sublime-color-scheme",
+    "dark_theme": "Default Dark.sublime-theme",
+    "light_theme": "Default.sublime-theme",
+    "dark_color_scheme": "GitHub Dimmed.sublime-color-scheme",
+    "light_color_scheme": "GitHub Light.sublime-color-scheme",
+}

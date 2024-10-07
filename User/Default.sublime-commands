@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "MariaDB: Conectar",
+        "command": "mariadb_connection"
+    },
+    {
+        "caption": "MariaDB: Ejecutar Consulta",
+        "command": "execute_sql_query"
+    }
+]

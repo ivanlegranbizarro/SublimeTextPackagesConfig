@@ -1,0 +1,1 @@
+{"name": "Gitignore", "version": "1.0.2407", "sublime_text": ">=3000", "platforms": ["*"], "python_version": "3.3", "url": "https://github.com/vilhelmen/Sublime-Gitignore", "issues": null, "author": ["vilhelmen"], "description": "Gitignore plugin for Sublime Text 3 and 4", "labels": [], "libraries": [], "install_time": 1728932478.659775, "release_time": "2024-07-19 04:50:03"}

@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"Codeium",
+		"FileIcons",
+		"FileManager",
+		"GitHub Theme",
+		"Gitignore",
+		"GitSavvy",
+		"LSP",
+		"LSP-intelephense",
+		"LSP-pyright",
+		"Package Control",
+		"REST Client",
+		"SnippetMaker",
+		"Terminus",
+	],
+}
